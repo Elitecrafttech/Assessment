@@ -5,11 +5,11 @@ This project fetches product data from DummyJSON and presents it in a searchable
 
 ## Live Demo
 
-
+https://contentexplorer.vercel.app/
 
 ## Repository
 
-
+https://github.com/Elitecrafttech/Assessment.git
 
 ---
 
